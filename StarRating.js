@@ -77,4 +77,4 @@ if (typeof Survey !== "undefined") {
   init(Survey, window.$);
 }
 
-export default init;
+//export default init;
